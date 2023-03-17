@@ -9,6 +9,7 @@ news: true
 ---
 
 <span style="color: red; font-weight: bold;">TESTING.</span>
+<span style="color: blue; font-weight: bold;">@Organizers, please share your photo in the google drive! Thank you.</span>
 
 The Synergy of Scientific and Machine Learning Modeling Workshop ("SynS & ML") aims to be an interdisciplinary forum for world-recognized and interested researchers in the challenges of combining scientific and machine-learning (ML) models.
 While the interaction between Science and ML is a hot topic in recent years, a venue focused on the unification of scientific and ML modelling is missing.
