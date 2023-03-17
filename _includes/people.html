@@ -1,0 +1,17 @@
+<div class="card-item col-md-1" style="width: {{ col_width }}; flex: 0 0 {{ col_width }}; max-width: {{ col_width }};">
+  {%- if person.redirect -%}
+  <a href="{{ person.redirect }}">
+  {%- else -%}
+  <a href="{{ person.url | relative_url }}">
+  {%- endif -%}
+    <div class="card hoverable">
+        {%- if person.img -%}
+            {% include figure.html path=person.img %}
+        {%- endif -%}
+        <div class="card-body">
+            <h6 class="card-title">{{ person.first }} {{ person.last }}</h6>
+            <p class="card-text">{{ person.aff }}</p>
+        </div>
+    </div>
+  </a>
+</div>

@@ -1,0 +1,45 @@
+- first: Sharon
+  last: Di
+  aff: Columbia
+  url: https://sharondi-columbia.wixsite.com/ditectlab
+  img: assets/img/placeholder.png
+- first: Emmanuel
+  last: De Bézenac
+  aff: ETH Zürich
+  url: https://scholar.google.com/citations?user=KvZw5gYAAAAJ
+  img: assets/img/placeholder.png
+- first: Emily
+  last: Fox
+  aff: Stanford
+  url: https://emilybfox.su.domains/
+  img: assets/img/placeholder.png
+- first: Jörn-Henrik
+  last: Jacobsen
+  aff: Apple
+  url: https://jhjacobsen.github.io/
+  img: assets/img/placeholder.png
+- first: Anuj
+  last: Karpatne
+  aff: Virginia Tech
+  url: https://people.cs.vt.edu/karpatne/
+  img: assets/img/placeholder.png
+- first: Victoriya
+  last: Kashtanova
+  aff: INRIA
+  url: https://kvict.github.io/
+  img: assets/img/placeholder.png
+- first: Gilles
+  last: Louppe
+  aff: ULiège
+  url: https://glouppe.github.io/
+  img: assets/img/placeholder.png
+- first: Naoya
+  last: Takeishi
+  aff: HES-SO Genève
+  url: https://ntake.jp/
+  img: assets/img/placeholder.png
+- first: Antoine
+  last: Wehenkel
+  aff: Apple
+  url: https://awehenkel.github.io/
+  img: assets/img/placeholder.png
