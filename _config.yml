@@ -7,8 +7,7 @@ first_name:
 middle_name:
 last_name: SynS & ML Workshop Organizing Committee
 email: ...@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-
+description: The Synergy of Scientific and Machine Learning Modeling Workshop ("SynS & ML") is an interdisciplinary forum for researchers and practitioners interested in the challenges of combining scientific and machine-learning models.
 footer_text:
 keywords: # add your own keywords or leave empty
 
@@ -17,7 +16,7 @@ icon: # the emoji used as the favicon (alternatively, provide image name in /ass
 
 url: https://syns-ml.github.io # the base hostname & protocol for your site
 baseurl: /2023/ # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
