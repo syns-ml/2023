@@ -61,4 +61,4 @@ The goal of the workshop is to gather together machine learning researchers eage
 
 ## Contact
 
-Please contact the organizers at: [workshop.icml.symbiosis@gmail.com](mailto:workshop.icml.symbiosis@gmail.com)
+Please contact the organizers at: [synsandml@gmail.com](mailto:synsandml@gmail.com)
