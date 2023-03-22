@@ -23,7 +23,7 @@ Sometimes called hybrid learning or grey-box modelling, this combination should 
 In this spirit, the workshop focuses on the symbiosis between these two complementary modelling approaches; it aims to be a "rendezvous" between the involved communities, spanning sub-fields of science, engineering and health, and encompassing ML, to allow them to present their respective problems and solutions and foster new collaborations.
 The workshop invites researchers to contribute to such topics; see [Call for papers](cfp/) for more details.
 
-This workshop will be basically an **in-person event** at ICML 2023. The exact date and room are to be announced. It will have some virtual aspects such as broadcasting of talks.
+This workshop will be an **in-person event** (with some virtual aspects such as online talks and broadcasting) at ICML 2023. The exact date and room are to be announced.
 
 ## Key dates
 
