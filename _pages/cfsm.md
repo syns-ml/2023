@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cfp/
-title: Call for Papers
+permalink: /csfm/
+title: Call for Scientific Models
 description:
 nav: true
 nav_order: 1
@@ -10,30 +10,19 @@ The workshop features two external contributions tracks:
 1. [Paper submission](/2023/cfp/) 
 2. [Scientific model submission](/2023/csfm/)
 
-We invite scientists from diverse backgrounds to submit their scientific work combining scientific and machine learning models as 4-pages papers. All accepted contributions will be presented at a physical poster session, or a 10 minutes video for virtual attendees. In addition, four outstanding contributions selected from the call for papers and the call for models will be presented as 15 minutes contributed talks and recognised by an award funded by the workshops sponsors.
+The call for scientific models is an original component of this workshop that we consider key to fostering interactions between machine learning researchers and domain scientists. It will be open to any scientific computational model respecting quality standards such as: code publicity, recognised scientific quality, documentation, etc. All contributions shall clearly discuss the modelling assumptions and their limitations. Accepted submissions will be made publicly available on the workshop web page and will be presented at the poster session.
 
-The workshop invites submissions on (but not limited to) the following topics:
-
-- **Real-world application** of the combination of scientific and ML modelling: How can scientific models capitalise on ML to exploit raw data to broaden their applicability in the real world?
-    - Astronomy
-    - Biology
-    - Chemistry
-    - Geology
-    - Robotics
-    - etc.
-- **Methodological and theoretical study** on the combination of scientific and ML modelling: How can ML take advantage of the large amounts of data and human efforts hidden behind scientific models?
-    - Models
-    - Learning algorithms
-    - Implementation
-    - Theoretical analysis
-
-Criteria for a successful paper submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
+Criteria for a successful scientific model submission include: 
+- Potential impact
+- Documentation
+- Scientific validity
+- Accessibility
 
 #### Awards & contributed talks
 Awards shall be attributed to the four most oustanding contributions selected from the call for papers and the call for models with the financial supports of the workshop sponsors. Authors of the recognised contributions will have the opportunity to present their work as 15 minutes-long contributed talks.
 
 #### Posters
-Accepted work shall preferably be presented as posters during the workshop. However, in order to facilitate viewing presentations in different time zones, the authors of each accepted paper will get the opportunity to submit a 10 minute video that summarizes their work. Authors of submitted papers will be able to indicate their preference for an in-person presentation or a virtual presentation. Instructions to upload videos will follow.
+Accepted scientific models shall preferably be presented as posters during the workshop. However, in order to facilitate viewing presentations in different time zones, the authors of each accepted scientific model will get the opportunity to submit a 10 minute video that summarizes their work. Authors of submitted papers will be able to indicate their preference for an in-person presentation or a virtual presentation. Instructions to upload videos will follow.
 
 
 ## Key dates
