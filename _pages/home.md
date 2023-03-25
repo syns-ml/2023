@@ -5,7 +5,7 @@ hometitle: Synergy of Scientific and Machine Learning Modeling
 permalink: /
 subtitle: ICML 2023 Workshop, 28 or 29 (TBD) July 2023, Hawaii, USA
 
-news: true
+news: false
 ---
 
 -----
@@ -21,18 +21,18 @@ Expert models only describe idealized versions of the world which may hinder the
 This workshop focuses on **the combination of two modelling paradigms: scientific and ML modelling**.
 Sometimes called hybrid learning or grey-box modelling, this combination should 1) unlock new applications for expert models, and 2) leverage the data compressed within scientific models to improve the quality of modern ML models.
 In this spirit, the workshop focuses on the symbiosis between these two complementary modelling approaches; it aims to be a "rendezvous" between the involved communities, spanning sub-fields of science, engineering and health, and encompassing ML, to allow them to present their respective problems and solutions and foster new collaborations.
-The workshop invites researchers to contribute to such topics; see [Call for papers](cfp/) for more details.
+The workshop invites researchers to contribute to such topics; see [Call for Papers](cfp/) and [Call for Scientific Models](cfsm/) for more details.
 
-This workshop will be an **in-person event** (with some virtual aspects such as online talks and broadcasting) at ICML 2023. The exact date and room are to be announced.
+This workshop will be an **in-person event** (with some virtual components such as online talks and videos by authors) at ICML 2023. The exact date and room are to be announced.
 
 ## Key dates
 
-- Submission Deadline: **May 24, 2023, 23:59 AoE**
-- Review Deadline: **June 7, 2023, 23:59 AoE**
-- Decision: **June 16, 2023, 23:59 AoE**
-- Camera-ready **July 21, 2023, 23:59 AoE**
-- Poster deadline: **July 21, 2023, 23:59 AoE**
-- Workshop: **July 28 or 29, 2023**
+- Submission Deadline: **{{ site.data.keydates.submission }}**
+- Review Deadline: **{{ site.data.keydates.review }}**
+- Decision: **{{ site.data.keydates.decision }}**
+- Camera-ready: **{{ site.data.keydates.camera_ready }}**
+- Poster deadline: **{{ site.data.keydates.poster }}**
+- Workshop: **{{ site.data.keydates.workshop }}**
 
 ## Speakers & Panelists
 
@@ -71,12 +71,12 @@ This workshop will be an **in-person event** (with some virtual aspects such as 
 **Support our effort to merge scientific models and machine learning by sponsoring the SynS & ML workshop!**
 Your donation will provide financial supports to guest speakers and authors of accepted publications. Interested organisations can confirm their interest and the amount of their support (minimum 500$) by email to synsandml@gmail.com. In exchange of the sponsor’s generosity we provide the following list of acknowledgments and services:
 
-- The donation will support the travel costs and/or the conference fees of speakers and/or main authors of accepted publications. Each of these grants will be attributed by the organizing committee by priorizing profiles from underrepresented communities. 
+- The donation will support the travel costs and/or the conference fees of speakers and/or main authors of accepted publications. Each of these grants will be attributed by the organizing committee by priorizing profiles from underrepresented communities.
 - Sponsoring one or many best paper award(s). The sponsoring entity can also offer to provide goodies to give to the best paper awards.
 - The sponsoring entity can express its preference on how it would like money to be attributed by the organising committee (travel costs _vs_ conferences fees _vs_ best paper award(s)).
-- Each grant will be tied to one sponsor and the name of the sponsor will be explicitly mentioned to the awardee(s). 
+- Each grant will be tied to one sponsor and the name of the sponsor will be explicitly mentioned to the awardee(s).
 - Company logo on website
-- Company logo on the acknowledgements slide presented at the end of the workshop (ranked by amount of the support) and a word on the number and types of supports it allowed the workshop to provide. 
+- Company logo on the acknowledgements slide presented at the end of the workshop (ranked by amount of the support) and a word on the number and types of supports it allowed the workshop to provide.
 
 
 

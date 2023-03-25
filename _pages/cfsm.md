@@ -1,18 +1,18 @@
 ---
 layout: page
-permalink: /csfm/
+permalink: /cfsm/
 title: Call for Scientific Models
 description:
 nav: true
 nav_order: 1
 ---
-The workshop features two external contributions tracks: 
-1. [Paper submission](/2023/cfp/) 
-2. [Scientific model submission](/2023/csfm/)
+The workshop features two external contributions tracks:
+1. [Paper submission](/2023/cfp/)
+2. [Scientific model submission](/2023/cfsm/)
 
-The call for scientific models is an original component of this workshop that we consider key to fostering interactions between machine learning researchers and domain scientists. It will be open to any scientific computational model respecting quality standards such as: code publicity, recognised scientific quality, documentation, etc. All contributions shall clearly discuss the modelling assumptions and their limitations. Accepted submissions will be made publicly available on the workshop web page and will be presented at the poster session.
+Which scientific models should be combined with machine learning models? The call for scientific models is an original component of this workshop that we consider key to fostering interactions between machine learning researchers and domain scientists. It will be open to any scientific computational model respecting quality standards such as: code publicity, recognised scientific quality, documentation, etc. All contributions shall clearly discuss the modelling assumptions and their limitations. Accepted submissions will be made publicly available on the workshop web page and will be presented at the poster session.
 
-Criteria for a successful scientific model submission include: 
+Criteria for a successful scientific model submission include:
 - Potential impact
 - Documentation
 - Scientific validity
@@ -27,17 +27,17 @@ Accepted scientific models shall preferably be presented as posters during the w
 
 ## Key dates
 
-- Submission Deadline: **May 24, 2023, 23:59 AoE**
-- Review Deadline: **June 7, 2023, 23:59 AoE**
-- Decision: **June 16, 2023, 23:59 AoE**
-- Camera-ready **July 21, 2023, 23:59 AoE**
-- Poster deadline: **July 21, 2023, 23:59 AoE**
+- Submission Deadline: **{{ site.data.keydates.submission }}**
+- Review Deadline: **{{ site.data.keydates.review }}**
+- Decision: **{{ site.data.keydates.decision }}**
+- Camera-ready: **{{ site.data.keydates.camera_ready }}**
+- Poster deadline: **{{ site.data.keydates.poster }}**
 
 ## Authors instructions
 
 #### Double submission policy
 
-All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023. 
+All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.
 
 #### Format
 - Submissions should be anonymized short papers (extended abstracts) up to 4 pages in PDF format, typeset using the [paper template](/2023/assets/synsml2023_template.zip) of the workshop (adapted from the ICML template).
@@ -64,7 +64,7 @@ Submissions that follow the submission instructions correctly (i.e., are not rej
 - There will be multiple reviewers for each paper.
 - Reviewers will be able to state their confidence in their review.
 - We will provide an easy-to-follow template for reviews so that both the pros and the cons of the submission can be highlighted.
-- Reviewers are expected to have an up-to-date openreview profil as the paper matching will rely on the openreview matching algorithm. 
+- Reviewers are expected to have an up-to-date openreview profil as the paper matching will rely on the openreview matching algorithm.
 - Potential conflicts of interest based on institution and author collaboration are addressed through the openreview review system.
 - Criteria for a successful paper submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
 - Criteria for a successful scientific model submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
