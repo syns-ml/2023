@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: /csfm/
+permalink: /cfsm/
 title: Call for Scientific Models
 description:
 nav: true
 nav_order: 1
 ---
-The workshop features two external contributions tracks: 
-1. [Paper submission](/2023/cfp/) 
-2. [Scientific model submission](/2023/csfm/)
+The workshop features two external contributions tracks:
+1. [Paper submission](/2023/cfp/)
+2. [Scientific model submission](/2023/cfsm/)
 
-The call for scientific models is an original component of this workshop that we consider key to fostering interactions between machine learning researchers and domain scientists. It will be open to any scientific computational model (a.k.a. scientific simulator) respecting quality standards such as: code publicity, recognised scientific quality, documentation, etc. All contributions shall clearly discuss the modelling assumptions and their limitations. Accepted submissions will be made publicly available on the workshop web page and will be presented at the poster session. Our goal is to create a digital library of scientific simulators respecting quality standard and ease the interaction between computational models and machine learning.
+Which scientific models should be combined with machine learning models? The call for scientific models is an original component of this workshop that we consider key to fostering interactions between machine learning researchers and domain scientists. It will be open to any scientific computational model (a.k.a. scientific simulator) respecting quality standards such as: code publicity, recognised scientific quality, documentation, etc. All contributions shall clearly discuss the modelling assumptions and their limitations. Accepted submissions will be made publicly available on the workshop web page and will be presented at the poster session. Our goal is to create a digital library of scientific simulators respecting quality standard and ease the interaction between computational models and machine learning.
 
 Criteria for a successful scientific model submission include: 
 - **Potential impact:** Will making this simulator more accessible to the research communities lead to impactful research and/or industrial developments?
@@ -27,17 +27,17 @@ Accepted scientific models shall preferably be presented as posters during the w
 
 ## Key dates
 
-- Submission Deadline: **May 24, 2023, 23:59 AoE**
-- Review Deadline: **June 7, 2023, 23:59 AoE**
-- Decision: **June 16, 2023, 23:59 AoE**
-- Camera-ready **July 21, 2023, 23:59 AoE**
-- Poster deadline: **July 21, 2023, 23:59 AoE**
+- Submission Deadline: **{{ site.data.keydates.submission }}**
+- Review Deadline: **{{ site.data.keydates.review }}**
+- Decision: **{{ site.data.keydates.decision }}**
+- Camera-ready: **{{ site.data.keydates.camera_ready }}**
+- Poster deadline: **{{ site.data.keydates.poster }}**
 
 ## Authors instructions
 
 #### Double submission policy
 
-All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023. 
+All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.
 
 
 #### Format
@@ -54,3 +54,16 @@ All accepted works will be made available on the workshop website. This does not
 #### Submission platform
 Submissions should be uploaded on [openreview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML). 
 The submissions is composed of a description of the simulator and the code accompanying it. The code can be submitted as a link to a public github repository at the end of the abstract field or a zipped folder.
+
+## Reviewers instructions
+Submissions that follow the submission instructions correctly (i.e., are not rejected due to editorial reasons, such as exceeding the page limit, missing the impact statement, etc,) are sent for peer-review. Below are some of the key points about this process that are shared with the reviewers and authors alike. Authors are expected to consider these in preparation of their submissions and when deciding to apply for the reviewer role.
+
+- Papers are 4 pages long. Appendices are accepted but highly discouraged; the reviewers will not be required to read the appendices.
+- There will be multiple reviewers for each paper.
+- Reviewers will be able to state their confidence in their review.
+- We will provide an easy-to-follow template for reviews so that both the pros and the cons of the submission can be highlighted.
+- Reviewers are expected to have an up-to-date openreview profil as the paper matching will rely on the openreview matching algorithm.
+- Potential conflicts of interest based on institution and author collaboration are addressed through the openreview review system.
+- Criteria for a successful paper submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
+- Criteria for a successful scientific model submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
+- There will be no rebuttal period. Minor flaws will not be the sole reason to reject a paper. Incomplete works at an advanced progress stage are welcome.
