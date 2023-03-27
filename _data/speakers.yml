@@ -1,50 +1,45 @@
-- first: to
-  last: be defined
-  aff: to be defined
-  url:
-  img: assets/img/placeholder.png
-# - first: Andrew C.
-#   last: Miller
-#   aff: Apple
-#   url: https://andymiller.github.io/
-#   img: assets/img/placeholder.png
+- first: Andrew C.
+  last: Miller
+  aff: Apple
+  url: https://andymiller.github.io/
+  img:
 # - first: Carla
 #   last: Gomes (tentative)
 #   aff: Cornell
 #   url: https://www.cs.cornell.edu/gomes/
-#   img: assets/img/placeholder.png
-# - first: Ellen
-#   last: Kuhl
-#   aff: Stanford
-#   url: http://biomechanics.stanford.edu/
-#   img: assets/img/placeholder.png
-# - first: Frank
-#   last: Noé
-#   aff: Microsoft
-#   url: http://research.franknoe.de/
-#   img: assets/img/placeholder.png
-# - first: Kyle
-#   last: Cranmer
-#   aff: UW-Madison
-#   url: http://theoryandpractice.org/
-#   img: assets/img/placeholder.png
-# - first: Laure
-#   last: Zanna
-#   aff: NYU
-#   url: https://laurezanna.github.io/
-#   img: assets/img/placeholder.png
-# - first: Patrick
-#   last: Gallinari
-#   aff: Sorbonne University
-#   url: http://www-connex.lip6.fr/~gallinar/gallinari/pmwiki.php
-#   img: assets/img/placeholder.png
-# - first: Rianne
-#   last: van den Berg
-#   aff: Microsoft
-#   url: https://www.microsoft.com/en-us/research/people/rvandenberg/
-#   img: assets/img/placeholder.png
-# - first: Sercan Ö.
-#   last: Arık
-#   aff: Google
-#   url: https://www.sercanarik.com/
-#   img: assets/img/placeholder.png
+#   img:
+- first: Ellen
+  last: Kuhl
+  aff: Stanford
+  url: http://biomechanics.stanford.edu/
+  img:
+- first: Frank
+  last: Noé
+  aff: Microsoft
+  url: http://research.franknoe.de/
+  img:
+- first: Kyle
+  last: Cranmer
+  aff: UW-Madison
+  url: http://theoryandpractice.org/
+  img:
+- first: Laure
+  last: Zanna
+  aff: NYU
+  url: https://laurezanna.github.io/
+  img:
+- first: Patrick
+  last: Gallinari
+  aff: Sorbonne University
+  url: http://www-connex.lip6.fr/~gallinar/gallinari/pmwiki.php
+  img:
+- first: Rianne
+  last: van den Berg
+  aff: Microsoft
+  url: https://www.microsoft.com/en-us/research/people/rvandenberg/
+  img:
+- first: Sercan Ö.
+  last: Arık
+  aff: Google
+  url: https://www.sercanarik.com/
+  img:
