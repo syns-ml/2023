@@ -20,11 +20,11 @@ The workshop invites submissions on (but not limited to) the following topics:
     - Chemistry
     - Geology
     - Robotics
+    - Sub-domains of engineering
     - etc.
 - **Methodological and theoretical study** on the combination of scientific and ML modelling: How can ML take advantage of the large amounts of data and human efforts hidden behind scientific models?
-    - Models
+    - Model class and neural architectures
     - Learning algorithms
-    - Implementation
     - Theoretical analysis
 
 Criteria for a successful paper submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
@@ -53,7 +53,7 @@ All accepted works will be made available on the workshop website. This does not
 #### Format
 - Submissions should be anonymized short papers (extended abstracts) up to 4 pages in PDF format, typeset using the [paper template](/2023/assets/synsml2023_template.zip) of the workshop (adapted from the ICML template).
 - The authors are required to include a short statement (approximately one paragraph) about the potential broader impact of their work, including any ethical aspects and future societal consequences, which may be positive or negative. The broader impact statement should come after the main paper content. The impact statement and references do not count towards the page limit.
-- The ICML style template includes a paper checklist intended to encourage best practices for responsible machine learning research ([see associated guidelines](https://icml.cc/Conferences/2023/PaperGuidelines)). We advice authors to follow those best practices when possible.
+- The ICML style template includes a paper checklist intended to encourage best practices for responsible machine learning research ([see associated guidelines](https://icml.cc/Conferences/2023/PaperGuidelines)). We advise authors to follow those best practices when possible.
 - Appendices are *highly discouraged*, and reviewers will not be required to read beyond the first 4 pages and the impact statement.
 - Workshop organizers retain the right to reject submissions for editorial reasons: for example, any paper surpassing the page limitation or not including the broader impact statement will be desk-rejected.
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
@@ -61,13 +61,6 @@ All accepted works will be made available on the workshop website. This does not
 #### Submission platform
 Submissions should be uploaded in pdf format on [openreview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML).
 
-{% comment %}
-- style file
-- length
-- anonymity
-- submission site
-- etc.
-{% endcomment %}
 ## Reviewers instructions
 Submissions that follow the submission instructions correctly (i.e., are not rejected due to editorial reasons, such as exceeding the page limit, missing the impact statement, etc,) are sent for peer-review. Below are some of the key points about this process that are shared with the reviewers and authors alike. Authors are expected to consider these in preparation of their submissions and when deciding to apply for the reviewer role.
 
