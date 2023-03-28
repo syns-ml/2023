@@ -25,7 +25,7 @@ The workshop invites researchers to contribute to such topics; see [Call for Pap
 
 This workshop will be an **in-person event** (with some virtual components such as online talks and videos by authors) at ICML 2023. The exact date and room are to be announced.
 
-**We are looking for your help in making SynS & ML a great venue! Feel that you might help reviewing one or a few papers? You are awesome! Show interest by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHi6g3cjoCwdOO9kqjA_K_pgU2NiGR6Z1OoSukcqbFAYYgGg/viewform?usp=sf_link).**
+**We are looking for your help in making SynS & ML a great venue! Feel that you might help reviewing one or a few papers? You are awesome! Show interest by filling in [this form](https://docs.google.com/forms/d/121InI4SGJKvxJTkDpGCeJ3XU0yvWXXuSzRuH4zB2zyM/prefill).**
 
 ## Key dates
 
