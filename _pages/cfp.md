@@ -25,6 +25,7 @@ The workshop invites submissions on (but not limited to) the following topics:
 - **Methodological and theoretical study** on the combination of scientific and ML modelling: How can ML take advantage of the large amounts of data and human efforts hidden behind scientific models?
     - Model class and neural architectures
     - Learning algorithms
+    - Data preparation
     - Theoretical analysis
 
 Criteria for a successful paper submission include: novelty, correctness, relevance to the field, at the intersection of ML and sciences, and showing promise for future impact. Negative or null results that add value and insight are welcome.
