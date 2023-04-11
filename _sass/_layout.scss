@@ -48,3 +48,50 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+// for making 5 columns with bootstrap
+// https://stackoverflow.com/questions/10387740/five-equal-columns-in-twitter-bootstrap
+
+.col-xs-5ths,
+.col-sm-5ths,
+.col-md-5ths,
+.col-lg-5ths {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-xs-5ths {
+    width: 20%;
+    float: left;
+    max-width: 20%;
+    flex: 0 0 20%;
+}
+
+@media (min-width: 768px) {
+    .col-sm-5ths {
+        width: 20%;
+        float: left;
+        max-width: 20%;
+        flex: 0 0 20%;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-5ths {
+        width: 20%;
+        float: left;
+        max-width: 20%;
+        flex: 0 0 20%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-5ths {
+        width: 20%;
+        float: left;
+        max-width: 20%;
+        flex: 0 0 20%;
+    }
+}

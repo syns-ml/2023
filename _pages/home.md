@@ -54,9 +54,9 @@ Your donation will provide financial supports to guest speakers and authors of a
 
 <div class="projects">
   {%- assign sorted_people = site.data.speakers | sort: "last" -%}
-  {%- assign col_width = "25%" -%}
-  <div class="container mt-3 mb-3 overflow-hidden">
-    <div class="row gx-5">
+  {%- assign col_size = "large" -%}
+  <div class="container">
+    <div class="row">
     {%- for person in sorted_people -%}
       {% include people.html %}
     {%- endfor %}
@@ -72,9 +72,9 @@ Your donation will provide financial supports to guest speakers and authors of a
 
 <div class="projects">
   {%- assign sorted_people = site.data.organizers | sort: "last" -%}
-  {%- assign col_width = "20%" -%}
-  <div class="container mt-3 mb-3 overflow-hidden">
-    <div class="row gx-5">
+  {%- assign col_size = "small" -%}
+  <div class="container">
+    <div class="row">
     {%- for person in sorted_people -%}
       {% include people.html %}
     {%- endfor %}
