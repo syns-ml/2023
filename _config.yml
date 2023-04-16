@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SynS & ML Workshop # the website title (if blank, full name will be used instead)
+title: SynS & ML Workshop @ ICML 2023 # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name: SynS & ML Workshop Organizing Committee
-email: ...@example.com
+email: synsandml@gmail.com
 description: The Synergy of Scientific and Machine Learning Modeling Workshop ("SynS & ML") is an interdisciplinary forum for researchers and practitioners interested in the challenges of combining scientific and machine-learning models.
 footer_text:
-keywords: # add your own keywords or leave empty
+keywords: machine learning, scientific models, simulators, hybrid models, gray-box models, physics, biology, chemistry, astronomy, geology, robotics, engineering
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
