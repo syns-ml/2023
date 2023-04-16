@@ -139,8 +139,9 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  // background-color: var(--global-bg-color);
+  background-color: var(--global-theme-color);
+  opacity: 0.85;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -169,18 +170,24 @@ blockquote {
     }
   }
   .navbar-brand {
-    color: var(--global-text-color);
+    // color: var(--global-text-color);
+    color: var(--global-bg-color);
+    font-weight: bolder;
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    // color: var(--global-text-color);
+    color: var(--global-bg-color);
     &:hover {
       color: var(--global-hover-color);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
+      // background-color: var(--global-bg-color);
       font-weight: bolder;
-      color: var(--global-theme-color);
+      // color: var(--global-theme-color);
+      color: var(--global-bg-color);
+      text-decoration: underline dotted;
       &:hover {
         color: var(--global-hover-color);
       }
@@ -301,11 +308,11 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  
+
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       background-color: inherit;
       border-color: var(--global-divider-color);
@@ -676,38 +683,38 @@ progress {
      left: 0;
      top: 56px;
      z-index: 10;
-   
+
      /* Dimensions */
      width: 100%;
      height: 1px;
-   
+
      /* Reset the appearance */
      -webkit-appearance: none;
         -moz-appearance: none;
              appearance: none;
-   
+
      /* Get rid of the default border in Firefox/Opera. */
      border: none;
-   
+
      /* Progress bar container for Firefox/IE10  */
      background-color: transparent;
-   
+
      /* Progress bar value for IE10  */
      color: var(--global-theme-color);
  }
- 
+
  progress::-webkit-progress-bar {
      background-color: transparent;
  }
-   
+
  progress::-webkit-progress-value {
      background-color: var(--global-theme-color);
  }
-   
+
  progress::-moz-progress-bar {
      background-color: var(--global-theme-color);
  }
- 
+
  .progress-container {
      width: 100%;
      background-color: transparent;
@@ -717,7 +724,7 @@ progress {
      height: 5px;
      display: block;
  }
- 
+
  .progress-bar {
      background-color: var(--global-theme-color);
      width: 0%;
