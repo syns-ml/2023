@@ -30,11 +30,7 @@ Accepted scientific models shall preferably be presented as posters during the w
 
 #### Key dates
 
-- Submission Deadline: **{{ site.data.keydates.submission }}**
-- Review Deadline: **{{ site.data.keydates.review }}**
-- Decision: **{{ site.data.keydates.decision }}**
-- Camera-ready: **{{ site.data.keydates.camera_ready }}**
-- Poster deadline: **{{ site.data.keydates.poster }}**
+{% include key_dates_list.md %}
 
 ---
 
@@ -48,12 +44,13 @@ Accepted scientific models shall preferably be presented as posters during the w
     - Scientific validity of the model behing the simulator (e.g., link to a peer-reviewed scientific paper)
     - Potential impact of combining the simulator with machine learning (Highly encouraged but optional)
     - Pointer to real-world data associated with the simulator (Highly encouraged but optional)
+- A submission is composed of a description of the simulator as above and the code accompanying it. The code can be submitted as a link to a public github repository at the end of the abstract field or as a zipped folder.
+- Authors can optionally submit some documents as a pdf file.
 - Workshop organizers retain the right to reject submissions for editorial reasons.
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
 
 #### Submission platform
 Submissions should be uploaded on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML)**.
-The submissions is composed of a description of the simulator and the code accompanying it. The code can be submitted as a link to a public github repository at the end of the abstract field or a zipped folder.
 
 #### Double submission policy
 All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.

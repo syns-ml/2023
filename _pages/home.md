@@ -31,12 +31,7 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 ## Key dates
 
-- Submission Deadline: **{{ site.data.keydates.submission }}**
-- Review Deadline: **{{ site.data.keydates.review }}**
-- Decision: **{{ site.data.keydates.decision }}**
-- Camera-ready: **{{ site.data.keydates.camera_ready }}**
-- Poster deadline: **{{ site.data.keydates.poster }}**
-- Workshop: **{{ site.data.keydates.workshop }}**
+{% include key_dates_list.md %}
 
 ## Call for sponsors
 

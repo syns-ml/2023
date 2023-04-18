@@ -39,26 +39,23 @@ Accepted work shall preferably be presented as posters during the workshop. Howe
 
 #### Key dates
 
-- Submission Deadline: **{{ site.data.keydates.submission }}**
-- Review Deadline: **{{ site.data.keydates.review }}**
-- Decision: **{{ site.data.keydates.decision }}**
-- Camera-ready: **{{ site.data.keydates.camera_ready }}**
-- Poster deadline: **{{ site.data.keydates.poster }}**
+{% include key_dates_list.md %}
 
 ---
 
 ## Authors instructions
 
 #### Format
-- Submissions should be anonymized short papers (extended abstracts) up to 4 pages in PDF format, typeset using the **[paper template](/2023/assets/synsml2023_template.zip)** of the workshop (adapted from the ICML template).
-- The authors are required to include a short statement (approximately one paragraph) about the potential broader impact of their work, including any ethical aspects and future societal consequences, which may be positive or negative. The broader impact statement should come after the main paper content. The impact statement and references do not count towards the page limit.
+- Submissions should be short papers (extended abstracts) up to 4 pages in PDF format, typeset using the **[paper template](/2023/assets/synsml2023_template.zip)** of the workshop (adapted from the ICML template).
+- We adopt the double-blind reviewing process, so **submissions must be anonymized**.
+- The authors are **required to include a short statement (approximately one paragraph) about the potential broader impact of their work**, including any ethical aspects and future societal consequences, which may be positive or negative. The broader impact statement should come after the main paper content. The impact statement and references do not count towards the page limit.
 - The ICML style template includes a paper checklist intended to encourage best practices for responsible machine learning research ([see associated guidelines](https://icml.cc/Conferences/2023/PaperGuidelines)). We advise authors to follow those best practices when possible.
 - Appendices are *highly discouraged*, and reviewers will not be required to read beyond the first 4 pages and the impact statement.
 - Workshop organizers retain the right to reject submissions for editorial reasons: for example, any paper surpassing the page limitation or not including the broader impact statement will be desk-rejected.
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
 
 #### Submission platform
-Submissions should be uploaded in pdf format on [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML).
+Submissions should be uploaded on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML)**. In paper submission track, uploading a pdf file of the paper is mandatory.
 
 #### Double submission policy
 All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.
