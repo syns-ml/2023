@@ -138,11 +138,11 @@ are available on the conference web site at:
 The guidelines below will be enforced for initial submissions and
 camera-ready copies. Here is a brief summary:
 \begin{itemize}
-\item Submissions must be in PDF\@. 
-\item \textbf{New to this year}: If your paper has appendices, submit the appendix together with the main body and the references \textbf{as a single file}. Reviewers will not look for appendices as a separate PDF file. So if you submit such an extra file, reviewers will very likely miss it.
-\item Page limit: The main body of the paper has to be fitted to $4$ pages, excluding references and appendices; the space for the latter two is not limited. For the final version of the paper, authors can add one extra page to the main body.
+\item Submissions must be in PDF\@.
+\item If your paper has appendices, submit the appendix together with the main body and the references \textbf{as a single file}. Reviewers will not look for appendices as a separate PDF file. So if you submit such an extra file, reviewers will very likely miss it.
+\item Page limit: The main body of the paper has to be fitted to $4$ pages, excluding a broader impact section, references, and appendices; the space for the latter two is not limited. For the final version of the paper, authors can add one extra page to the main body.
 \item \textbf{Do not include author information or acknowledgements} in your
-    initial submission.
+    initial submission of a paper.
 \item Your paper should be in \textbf{10 point Times font}.
 \item Make sure your PDF file only uses Type-1 fonts.
 \item Place figure captions \emph{under} the figure (and omit titles from inside
@@ -161,7 +161,7 @@ camera-ready copies. Here is a brief summary:
 \textbf{Paper Deadline:} The deadline for paper submission that is
 advertised on the conference website is strict. If your full,
 anonymized, submission does not reach us on time, it will not be
-considered for publication. 
+considered for publication.
 
 \textbf{Anonymous Submission:} SynS \& ML uses double-blind review: no identifying
 author information may appear on the title page or in the paper
@@ -173,10 +173,6 @@ has already been published. This policy also applies to papers that
 overlap substantially in technical content with conference papers
 under review or previously published. SynS \& ML submissions must not be
 submitted to other ICML 2023 workshop.
-
-Informal publications, such as technical
-reports or papers in workshop proceedings which do not appear in
-print, do not fall under these restrictions.
 
 \medskip
 
@@ -226,8 +222,8 @@ same format and naming convention as initial submissions, except that
 author information (names and affiliations) should be given. See
 \cref{final author} for formatting instructions.
 
-The footnote, ``Preliminary work.  
-Under review by the workshop on Synergy of Scientific and Machine Learning Modeling.  
+The footnote, ``Preliminary work.
+Under review by the workshop on Synergy of Scientific and Machine Learning Modeling.
 Do not distribute.'' must be
 modified to ``\textit{Accepted after peer-review at the 1st workshop on Synergy of Scientific and Machine Learning Modeling},
 SynS \& ML at ICML, Honolulu, Hawaii, USA. July, 2023.
@@ -286,7 +282,7 @@ case.
 \subsection{Author Information for Submission}
 \label{author info}
 
-SynS \& ML uses double-blind review, so author information must not appear. If
+SynS \& ML uses double-blind review in the paper submission track, so author information must not appear. If
 you are using \LaTeX\/ and the \texttt{synsml2023.sty} file, use
 \verb+\synsmlauthor{...}+ to specify authors and \verb+\synsmlaffiliation{...}+ to specify affiliations. (Read the TeX code used to produce this document for an example usage.) The author information
 will not be printed unless \texttt{accepted} is passed as an argument to the
@@ -501,11 +497,11 @@ A function $f:X \to Y$ is injective if for any $x,y\in X$ different, $f(x)\ne f(
 \end{definition}
 Using \cref{def:inj} we immediate get the following result:
 \begin{proposition}
-If $f$ is injective mapping a set $X$ to another set $Y$, 
+If $f$ is injective mapping a set $X$ to another set $Y$,
 the cardinality of $Y$ is at least as large as that of $X$
 \end{proposition}
-\begin{proof} 
-Left as an exercise to the reader. 
+\begin{proof}
+Left as an exercise to the reader.
 \end{proof}
 \cref{lem:usefullemma} stated next will prove to be useful.
 \begin{lemma}
@@ -518,7 +514,7 @@ If $f:X\to Y$ is bijective, the cardinality of $X$ and $Y$ are the same.
 \end{theorem}
 An easy corollary of \cref{thm:bigtheorem} is the following:
 \begin{corollary}
-If $f:X\to Y$ is bijective, 
+If $f:X\to Y$ is bijective,
 the cardinality of $X$ is at least as large as that of $Y$.
 \end{corollary}
 \begin{assumption}
@@ -583,9 +579,18 @@ camera-ready version of the paper whenever appropriate. This can be
 done by including a URL in the camera-ready copy. However, \textbf{do not}
 include URLs that reveal your institution or identity in your
 submission for review. Instead, provide an anonymous URL or upload
-the material as ``Supplementary Material'' into the CMT reviewing
+the material as ``Supplementary Material'' into the reviewing
 system. Note that reviewers are not required to look at this material
 when writing their review.
+
+% Please do not forget to include a broader impact section!
+\section*{Broader impact}
+
+\textbf{Broader impact statement is mandatory}; the authors are required to include a short
+statement (approximately one paragraph) about the potential broader impact of their work,
+including any ethical aspects and future societal consequences, which may be positive or negative.
+The broader impact statement should come after the main paper content.
+The impact statement does not count towards the page limit.
 
 % Acknowledgements should only appear in the accepted version.
 \section*{Acknowledgements}
