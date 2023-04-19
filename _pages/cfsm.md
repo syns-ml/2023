@@ -39,12 +39,12 @@ Accepted scientific models shall preferably be presented as posters during the w
 #### Format
 - Our goal is to keep the process to submit the simulator of a scientific model as light as possible while maximizing the positive impact of getting the simulator accepted to the workshop.
 - **Anonymization is not mandatory** as we accept simulators already publicly available on github.
-- Authors should describe the simulator **in the abstract**. We expect the following information to be present in the description:
+- Authors should **describe the simulator in the abstract**. We expect the following information to be present in the description:
     - Scientific or industrial value of the simulator
     - Scientific validity of the model behing the simulator (e.g., link to a peer-reviewed scientific paper)
     - Potential impact of combining the simulator with machine learning (Highly encouraged but optional)
     - Pointer to real-world data associated with the simulator (Highly encouraged but optional)
-- A submission is composed of a description of the simulator as above and the code accompanying it. The code can be submitted as a link to a public github repository at the end of the abstract field or as a zipped folder.
+- A submission is composed of a description of the simulator as above and **the code accompanying it**. The code can be submitted as a link to a public github repository at the end of the abstract field or as a zipped folder.
 - Authors can optionally submit some documents as a pdf file.
 - Workshop organizers retain the right to reject submissions for editorial reasons.
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
