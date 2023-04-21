@@ -3,7 +3,7 @@ layout: home
 title: Home
 hometitle: Synergy of Scientific and Machine Learning Modeling
 permalink: /
-subtitle: ICML 2023 Workshop, July 28 2023, Hawaii, USA
+subtitle: ICML 2023 Workshop, July 28 2023, Room 320 of the Hawaii Convention Center
 
 news: false
 ---
