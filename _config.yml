@@ -189,6 +189,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - CONTRIBUTING.md
+  - docker-compose.yml
+  - Dockerfile
+  - docker-local.yml
+  - README.md
 keep_files:
   - CNAME
   - .nojekyll
