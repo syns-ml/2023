@@ -25,13 +25,24 @@ The workshop invites researchers to contribute to such topics; see [Call for Pap
 
 This workshop will be an **in-person event** (with some virtual components such as online talks and videos by authors) at ICML 2023.
 
-<div style="padding: 8px; margin: 0 auto; margin-bottom: 8px; border: 1px dotted #333333; background-color: #DDDDDD; width: 97%;">
+<div style="padding: 8px; margin: 0 auto; margin-bottom: 20px; border: 1px dotted #333333; background-color: #DDDDDD; width: 97%;">
   We are looking for your help in making SynS & ML a great venue! Feel that you might help reviewing one or a few papers? You are awesome! Show interest by filling in <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8uGGI7PNZbqS7KrYgHDgAJ6Y_XWvwApganOmCsWmhBtUc1A/viewform?usp=sf_link" style="font-weight: bold;" target="_blank">this form</a> to nominate yourself as a reviewer.
 </div>
 
 ## Key dates
 
 {% include key_dates_list.md %}
+
+---
+
+## Sponsors
+
+<div class="container" style="margin-bottom: 20px;">
+  <div class="row">
+    <div class="col"><img src="{{ '/assets/img/apple.svg' | relative_url }}" height="200"></div>
+    <div class="col"><img src="{{ '/assets/img/trail_institute.png' | relative_url }}" height="200"></div>
+  </div>
+</div>
 
 ## Call for sponsors
 
@@ -45,13 +56,14 @@ Your donation will provide financial supports to guest speakers and authors of a
 - Company logo on website
 - Company logo on the acknowledgements slide presented at the end of the workshop (ranked by amount of the support) and a word on the number and types of supports it allowed the workshop to provide.
 
+---
 
 ## Speakers & Panelists
 
 <div class="projects">
   {%- assign sorted_people = site.data.speakers | sort: "last" -%}
   {%- assign col_size = "large" -%}
-  <div class="container">
+  <div class="container" style="margin-bottom: 20px;">
     <div class="row">
     {%- for person in sorted_people -%}
       {% include people.html %}
@@ -71,7 +83,7 @@ Your donation will provide financial supports to guest speakers and authors of a
 <div class="projects">
   {%- assign sorted_people = site.data.organizers | sort: "last" -%}
   {%- assign col_size = "small" -%}
-  <div class="container">
+  <div class="container" style="margin-bottom: 20px;">
     <div class="row">
     {%- for person in sorted_people -%}
       {% include people.html %}
