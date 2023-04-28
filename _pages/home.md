@@ -39,8 +39,8 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 <div class="container" style="margin-bottom: 20px;">
   <div class="row">
-    <div class="col"><img src="{{ '/assets/img/apple.svg' | relative_url }}" height="200"></div>
-    <div class="col"><img src="{{ '/assets/img/trail_institute.png' | relative_url }}" height="200"></div>
+    <div class="col"><a href="https://www.apple.com/" alt="Apple" target="_blank"><img src="{{ '/assets/img/apple.svg' | relative_url }}" height="180"></a></div>
+    <div class="col"><a href="https://trail.ac/" alt="TRAIL" target="_blank"><img src="{{ '/assets/img/trail.png' | relative_url }}" height="180"></a></div>
   </div>
 </div>
 
