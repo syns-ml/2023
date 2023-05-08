@@ -49,8 +49,7 @@ Accepted scientific models shall preferably be presented as posters during the w
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
 
 #### Submission platform
-
-Submission platform will be ready soon.
+Submissions to the Scientific Model Track should be sent via **[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfbkOco4cfGZ557udp4vfsiyQlHiJsvmU3JUTelWLJ4AxnCYQ/viewform)**.
 
 #### Double submission policy
 All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.

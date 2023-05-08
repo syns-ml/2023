@@ -55,7 +55,7 @@ Accepted work shall preferably be presented as posters during the workshop. Howe
 - Submissions will be kept confidential until they are accepted and until authors confirm that they can be included in the workshop. If a submission is not accepted, or withdrawn for any reason, it will be kept confidential and not made public.
 
 #### Submission platform
-Submissions should be uploaded on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML)**. In paper submission track, uploading a pdf file of the paper is mandatory.
+Submissions to the Paper Track should be uploaded on **[OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML)**.
 
 #### Double submission policy
 All accepted works will be made available on the workshop website. This does not constitute an archival publication or formal proceedings; authors retain full copyright of their work and are free to publish their extended work in another journal or conference. We allow submission of works that overlap with papers that are under review or have been recently published in a conference or a journal, including physical science journals. However, we do not accept cross-submissions of the same content to multiple workshops at ICML 2023.
