@@ -35,9 +35,11 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 {% include key_dates_list.md %}
 
-<div style="margin: 0 auto;">
-  <p style="text-align: center;">Submission to Paper Track: <strong><a href="https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML" target="_blank">OpenReview</a></strong><br />
-  Submission to Scientific Model Track: <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfbkOco4cfGZ557udp4vfsiyQlHiJsvmU3JUTelWLJ4AxnCYQ/viewform" target="_blank">Google Form</a></strong></p>
+<div style="padding: 8px; margin: 0 auto; margin-bottom: 20px; border: 1px dotted #333333; background-color: #f0f8ff; width: 60%;">
+  <p style="text-align: center; margin-bottom: 0px;">
+    Submission to Paper Track: <strong><a href="https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML" target="_blank">OpenReview</a></strong><br />
+    Submission to Scientific Model Track: <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfbkOco4cfGZ557udp4vfsiyQlHiJsvmU3JUTelWLJ4AxnCYQ/viewform" target="_blank">Google Form</a></strong>
+  </p>
 </div>
 
 ---
