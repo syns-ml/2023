@@ -3,7 +3,7 @@ layout: page
 permalink: /cfsm/
 title: Call for Scientific Models
 description:
-nav: true
+nav: false
 nav_order: 1
 ---
 
