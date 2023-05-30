@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: Accepted Papers
 description:
-nav: true
+nav: false
 nav_order: 1
 ---
 

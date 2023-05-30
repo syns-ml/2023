@@ -3,7 +3,7 @@ layout: page
 permalink: /models/
 title: Accepted Scientific Models
 description:
-nav: true
+nav: false
 nav_order: 2
 ---
 
