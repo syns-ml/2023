@@ -1,6 +1,5 @@
-- Submission Deadline: <s>May 24, 2023, 23:59 AoE</s> &nbsp; <strong style="color: red;">May 29, 2023, 23:59 AoE (extended)</strong>
+- Submission Deadline: <s>May 24, 2023, 23:59 AoE</s> &nbsp; May 29, 2023, 23:59 AoE (extended)
 - Review Deadline: <s>June 7, 2023, 23:59 AoE</s> &nbsp; **June 12, 2023, 23:59 AoE (extended)**
 - Decision: **June 16, 2023**
 - Camera-ready: **July 21, 2023, 23:59 AoE**
-- Poster deadline: **July 21, 2023, 23:59 AoE**
 - Workshop: **July 28, 2023**
