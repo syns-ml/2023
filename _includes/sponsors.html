@@ -1,0 +1,17 @@
+<div class="card-item col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4">
+  {%- if sponsor.redirect -%}
+  <a href="{{ sponsor.redirect }}">
+  {%- else -%}
+  <a href="{{ sponsor.url | relative_url }}">
+  {%- endif -%}
+    <div class="card hoverable">
+      <div class="row">
+        <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          {%- if sponsor.img -%}
+              {% include figure.html path=sponsor.img %}
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>

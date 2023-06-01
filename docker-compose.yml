@@ -2,7 +2,7 @@ version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: syns2023
+    image: amirpourmand/al-folio
     container_name: al-folio-website
     command: bash -c "
       rm -f Gemfile.lock

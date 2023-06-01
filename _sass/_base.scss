@@ -467,6 +467,24 @@ footer.sticky-bottom {
   }
 }
 
+.sponsors {
+  .card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+
+    img {
+      margin: auto;
+      padding-bottom: 0px;
+    }
+
+    figure {
+      margin-bottom: 0px;
+    }
+  }
+}
+
 
 // Publications
 

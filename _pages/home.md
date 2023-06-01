@@ -35,21 +35,28 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 {% include key_dates_list.md %}
 
+{% comment %}
 <div style="padding: 8px; margin: 0 auto; margin-bottom: 20px; border: 1px dotted #333333; background-color: #f0f8ff; width: 60%;">
   <p style="text-align: center; margin-bottom: 0px;">
     Submission to Paper Track: <strong><a href="https://openreview.net/group?id=ICML.cc/2023/Workshop/SynS_and_ML" target="_blank">OpenReview</a></strong><br />
     Submission to Scientific Model Track: <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfbkOco4cfGZ557udp4vfsiyQlHiJsvmU3JUTelWLJ4AxnCYQ/viewform" target="_blank">Google Form</a></strong>
   </p>
 </div>
+{% endcomment %}
 
 ---
 
 ## Sponsors
 
-<div class="container" style="margin-bottom: 20px;">
-  <div class="row">
-    <div class="col"><a href="https://www.apple.com/" alt="Apple" target="_blank"><img src="{{ '/assets/img/apple.svg' | relative_url }}" height="180"></a></div>
-    <div class="col"><a href="https://trail.ac/" alt="TRAIL" target="_blank"><img src="{{ '/assets/img/trail.png' | relative_url }}" height="180"></a></div>
+<div class="projects sponsors">
+  {%- assign sorted_sponsors = site.data.sponsors | sort: "order" -%}
+  {%- assign col_size = "large" -%}
+  <div class="container" style="margin-bottom: 20px;">
+    <div class="row">
+    {%- for sponsor in sorted_sponsors -%}
+      {% include sponsors.html %}
+    {%- endfor %}
+    </div>
   </div>
 </div>
 
@@ -69,7 +76,7 @@ Your donation will provide financial supports to guest speakers and authors of a
 
 ## Speakers & Panelists
 
-<div class="projects">
+<div class="projects people">
   {%- assign sorted_people = site.data.speakers | sort: "last" -%}
   {%- assign col_size = "large" -%}
   <div class="container" style="margin-bottom: 20px;">
@@ -89,7 +96,7 @@ Your donation will provide financial supports to guest speakers and authors of a
 
 ## Organizers
 
-<div class="projects">
+<div class="projects people">
   {%- assign sorted_people = site.data.organizers | sort: "last" -%}
   {%- assign col_size = "small" -%}
   <div class="container" style="margin-bottom: 20px;">

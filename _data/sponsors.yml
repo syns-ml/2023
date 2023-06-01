@@ -1,0 +1,12 @@
+- name: Apple
+  img: assets/img/apple.svg
+  url: https://www.apple.com/
+  order: 1
+- name: Trail
+  img: assets/img/trail.png
+  url: https://trail.ac/
+  order: 2
+- name: Fleet Space Technologies
+  img: assets/img/fleet.png
+  url: https://fleetspace.com/
+  order: 3
