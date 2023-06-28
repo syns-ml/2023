@@ -1,5 +1,5 @@
 - Submission Deadline: <s>May 24, 2023, 23:59 AoE</s> &nbsp; May 29, 2023, 23:59 AoE (extended)
 - Review Deadline: <s>June 7, 2023, 23:59 AoE</s> &nbsp; June 12, 2023, 23:59 AoE (extended)
-- Decision: <s>June 16, 2023</s> &nbsp; **by June 19, 2023 (extended)**
-- Camera-ready: **July 21, 2023, 23:59 AoE**
+- Decision: <s>June 16, 2023</s> &nbsp; by June 19, 2023 (extended)
+- Camera-ready: **July 21, 2023, 23:59 AoE** &nbsp; (see [Camera-Ready Instruction](camera_ready/))
 - Workshop: **July 28, 2023**
