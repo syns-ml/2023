@@ -3,11 +3,11 @@
   aff: Apple
   url: https://andymiller.github.io/
   img: assets/img/andrew_miller.jpg
-- first: Ellen
-  last: Kuhl
-  aff: Stanford
-  url: http://biomechanics.stanford.edu/
-  img: assets/img/ellen_kuhl.jpg
+# - first: Ellen
+#   last: Kuhl
+#   aff: Stanford
+#   url: http://biomechanics.stanford.edu/
+#   img: assets/img/ellen_kuhl.jpg
 - first: Frank
   last: Noé
   aff: Microsoft
