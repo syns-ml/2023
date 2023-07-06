@@ -1,4 +1,4 @@
-- first: Andrew C.
+- first: Andrew
   last: Miller
   aff: Apple
   url: https://andymiller.github.io/
@@ -8,16 +8,16 @@
 #   aff: Stanford
 #   url: http://biomechanics.stanford.edu/
 #   img: assets/img/ellen_kuhl.jpg
-- first: Frank
-  last: Noé
-  aff: Microsoft
-  url: http://research.franknoe.de/
-  img: assets/img/frank_noe.jpg
-- first: Kyle
-  last: Cranmer
-  aff: UW-Madison
-  url: http://theoryandpractice.org/
-  img: assets/img/kyle_cranmer.jpg
+# - first: Frank
+#   last: Noé
+#   aff: Microsoft
+#   url: http://research.franknoe.de/
+#   img: assets/img/frank_noe.jpg
+# - first: Kyle
+#   last: Cranmer
+#   aff: UW-Madison
+#   url: http://theoryandpractice.org/
+#   img: assets/img/kyle_cranmer.jpg
 - first: Laure
   last: Zanna
   aff: NYU

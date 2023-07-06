@@ -21,6 +21,11 @@ table {
   }
 }
 
+table.schedule {
+  border-collapse: separate;
+  border-spacing: 1em 0px;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {

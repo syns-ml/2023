@@ -5,7 +5,7 @@ hometitle: Synergy of Scientific and Machine Learning Modeling
 permalink: /
 subtitle: ICML 2023 Workshop, July 28 2023, Room 320 of the Hawai‘i Convention Center
 
-news: false
+ne:ws: false
 ---
 
 -----
@@ -43,6 +43,67 @@ This workshop will be an **in-person event** (with some virtual components such 
   </p>
 </div>
 {% endcomment %}
+
+## Schedule
+
+Session assignment will soon be announced.
+
+<table class="schedule">
+<tbody>
+  <tr>
+    <td>9:00</td>
+    <td>Opening remarks</td>
+  </tr>
+  <tr>
+    <td>9:00&ndash;9:30</td>
+    <td>Talk by Rianne van den Berg</td>
+  </tr>
+  <tr>
+    <td>9:30&ndash;10:00</td>
+    <td>Talk by Patrick Gallinari</td>
+  </tr>
+  <tr>
+    <td>10:00&ndash;10:30</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>10:30&ndash;11:00</td>
+    <td>Talk by Laure Zanna</td>
+  </tr>
+  <tr>
+    <td>11:00&ndash;12:00</td>
+    <td>Poster session (1)</td>
+  </tr>
+  <tr>
+    <td>12:00&ndash;<strong>13:00</strong></td>
+    <td>Lunch (on your own)</td>
+  </tr>
+  <tr>
+    <td><strong>13:00</strong>&ndash;13:30</td>
+    <td>Talk by Sercan Ö. Arık</td>
+  </tr>
+  <tr>
+    <td>13:30&ndash;14:00</td>
+    <td>Talk by Andrew Miller</td>
+  </tr>
+  <tr>
+    <td>14:00&ndash;15:00</td>
+    <td>Contributed talks (15 mins x 4)</td>
+  </tr>
+  <tr>
+    <td>15:00&ndash;15:30</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td>15:30&ndash;16:00</td>
+    <td>Contributed talks (best paper awards, 15 mins x 2)</td>
+  </tr>
+  <tr>
+    <td>16:00&ndash;17:00</td>
+    <td>Poster session (2)</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
@@ -87,10 +148,6 @@ Your donation will provide financial supports to guest speakers and authors of a
     </div>
   </div>
 </div>
-
-## Schedule
-
-**More information coming soon!**
 
 ---
 
