@@ -16,3 +16,10 @@ Some instructions:
 - Please tape your poster directly to the wall using **only** the tape we provide.
 
 If something is unclear, please don't hesitate to contact the organizers at [synsandml@gmail.com](mailto:synsandml@gmail.com) :)
+
+-- 
+
+## Virtual attendees
+Virtual attendees are invited to submit a 5-minute video presenting their accepted paper. 
+In-person attendees can also submit a video if they want.
+Please share a link to your video by filling out [this form](https://forms.gle/Yu9px2CaJQukVbRz5).
