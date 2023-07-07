@@ -56,7 +56,7 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td>9:00&ndash;9:30</td>
-    <td>Talk by Rianne van den Berg</td>
+    <td>Talk <i>Two for One: Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</i> by Rianne van den Berg</td>
   </tr>
   <tr>
     <td>9:30&ndash;10:00</td>
@@ -67,8 +67,8 @@ Session assignment will soon be announced.
     <td>Break</td>
   </tr>
   <tr>
-    <td>10:30&ndash;11:00</td>
-    <td>Talk by Laure Zanna</td>
+    <td>10:30&ndash;11:00</td> 
+    <td>Talk <i>Climate modeling with AI: Hype or Reality?</i> by Laure Zanna</td>
   </tr>
   <tr>
     <td>11:00&ndash;12:00</td>
@@ -80,11 +80,11 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td><strong>13:00</strong>&ndash;13:30</td>
-    <td>Talk by Sercan Ö. Arık</td>
+    <td>Talk <i>AI-Augmented Epidemiology for Covid-19</i> by Sercan Ö. Arık</td>
   </tr>
   <tr>
     <td>13:30&ndash;14:00</td>
-    <td>Talk by Andrew Miller</td>
+    <td>Talk <i>Underspecification, Inductive Bias, and Hybrid Modeling</i> by Andrew Miller</td>
   </tr>
   <tr>
     <td>14:00&ndash;15:00</td>
@@ -96,7 +96,7 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td>15:30&ndash;16:00</td>
-    <td>Contributed talks (best paper awards, 15 mins x 2)</td>
+    <td>Contributed talks</td>
   </tr>
   <tr>
     <td>16:00&ndash;17:00</td>
