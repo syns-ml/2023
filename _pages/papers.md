@@ -1,13 +1,23 @@
 ---
 layout: page
-permalink: /papers/
-title: Accepted Papers
+permalink: /contributions/
+title: Accepted Contributions
 description:
-nav: false
-nav_order: 1
+nav: true
+nav_order: 3
 ---
 
-<span style="color: red; font-weight: bold;">TESTING.</span>
+(order by submission number)
+
+### Accepted Scientific Models
+
+<div class="publications">
+
+{% bibliography -f models %}
+
+</div>
+
+### Accepted Papers
 
 <div class="publications">
 

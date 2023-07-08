@@ -67,7 +67,7 @@ Session assignment will soon be announced.
     <td>Break</td>
   </tr>
   <tr>
-    <td>10:30&ndash;11:00</td> 
+    <td>10:30&ndash;11:00</td>
     <td>Talk <i>Climate modeling with AI: Hype or Reality?</i> by Laure Zanna</td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td>14:00&ndash;15:00</td>
-    <td>Contributed talks (15 mins x 4)</td>
+    <td>Contributed oral presentations</td>
   </tr>
   <tr>
     <td>15:00&ndash;15:30</td>
@@ -96,7 +96,7 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td>15:30&ndash;16:00</td>
-    <td>Contributed talks</td>
+    <td>Contributed oral presentations</td>
   </tr>
   <tr>
     <td>16:00&ndash;17:00</td>
