@@ -1,5 +1,5 @@
 - name: Apple
-  img: assets/img/apple.svg
+  img: assets/img/apple.png
   url: https://www.apple.com/
   order: 1
 - name: Trail
