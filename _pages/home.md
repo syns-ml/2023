@@ -60,7 +60,7 @@ Session assignment will soon be announced.
   </tr>
   <tr>
     <td>09:30&ndash;10:00</td>
-    <td>Talk: <i>(TBD)</i> by Patrick Gallinari</td>
+    <td>Talk: <i>The Domain Generalization Issue in Data-Based Dynamical Models</i> by Patrick Gallinari</td>
   </tr>
   <tr>
     <td>10:00&ndash;10:30</td>
