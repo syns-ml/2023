@@ -31,6 +31,69 @@ This workshop will be an **in-person event** (with some virtual components such 
 </div>
 {% endcomment %}
 
+## Schedule
+
+Session assignment will soon be announced.
+
+<table class="schedule">
+<tbody>
+  <tr class="tobedone">
+    <td>09:00</td>
+    <td>Opening remarks</td>
+  </tr>
+  <tr class="tobedone">
+    <td>09:00&ndash;09:30</td>
+    <td>Talk: <i>Two for One: Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</i> by Rianne van den Berg</td>
+  </tr>
+  <tr class="tobedone">
+    <td>09:30&ndash;10:00</td>
+    <td>Talk: <i>The Domain Generalization Issue in Data-Based Dynamical Models</i> by Patrick Gallinari</td>
+  </tr>
+  <tr class="tobedone">
+    <td>10:00&ndash;10:30</td>
+    <td>Break</td>
+  </tr>
+  <tr class="tobedone">
+    <td>10:30&ndash;11:00</td>
+    <td>Talk: <i>Climate modeling with AI: Hype or Reality?</i> by Laure Zanna</td>
+  </tr>
+  <tr class="tobedone">
+    <td>11:00&ndash;12:00</td>
+    <td>Poster session <abbr class="badge" style="background-color:{{ site.data.venues.AM.color }};">AM</abbr> (<a href="poster/">Poster Instruction</a>; <a href="contributions/">Session Assignment</a>)</td>
+  </tr>
+  <tr class="tobedone">
+    <td>12:00&ndash;<strong>13:00</strong></td>
+    <td>Lunch (on your own)</td>
+  </tr>
+  <tr class="tobedone">
+    <td><strong>13:00</strong>&ndash;13:30</td>
+    <td>Talk: <i>AI-Augmented Epidemiology for Covid-19</i> by Sercan Ö. Arık</td>
+  </tr>
+  <tr class="tobedone">
+    <td>13:30&ndash;14:00</td>
+    <td>Talk: <i>Underspecification, Inductive Bias, and Hybrid Modeling</i> by Andrew Miller</td>
+  </tr>
+  <tr class="tobedone">
+    <td>14:00&ndash;15:00</td>
+    <td>Contributed oral presentations</td>
+  </tr>
+  <tr class="tobedone">
+    <td>15:00&ndash;15:30</td>
+    <td>Break</td>
+  </tr>
+  <tr class="tobedone">
+    <td>15:30&ndash;16:00</td>
+    <td>Contributed oral presentations</td>
+  </tr>
+  <tr class="tobedone">
+    <td>16:00&ndash;17:00</td>
+    <td>Poster session <abbr class="badge" style="background-color:{{ site.data.venues.PM.color }};">PM</abbr> (<a href="poster/">Poster Instruction</a>; <a href="contributions/">Session Assignment</a>)</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
 ## Key dates
 
 {% include key_dates_list.md %}
@@ -43,67 +106,6 @@ This workshop will be an **in-person event** (with some virtual components such 
   </p>
 </div>
 {% endcomment %}
-
-## Schedule
-
-Session assignment will soon be announced.
-
-<table class="schedule">
-<tbody>
-  <tr>
-    <td>09:00</td>
-    <td>Opening remarks</td>
-  </tr>
-  <tr>
-    <td>09:00&ndash;09:30</td>
-    <td>Talk: <i>Two for One: Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics</i> by Rianne van den Berg</td>
-  </tr>
-  <tr>
-    <td>09:30&ndash;10:00</td>
-    <td>Talk: <i>The Domain Generalization Issue in Data-Based Dynamical Models</i> by Patrick Gallinari</td>
-  </tr>
-  <tr>
-    <td>10:00&ndash;10:30</td>
-    <td>Break</td>
-  </tr>
-  <tr>
-    <td>10:30&ndash;11:00</td>
-    <td>Talk: <i>Climate modeling with AI: Hype or Reality?</i> by Laure Zanna</td>
-  </tr>
-  <tr>
-    <td>11:00&ndash;12:00</td>
-    <td>Poster session (1)</td>
-  </tr>
-  <tr>
-    <td>12:00&ndash;<strong>13:00</strong></td>
-    <td>Lunch (on your own)</td>
-  </tr>
-  <tr>
-    <td><strong>13:00</strong>&ndash;13:30</td>
-    <td>Talk: <i>AI-Augmented Epidemiology for Covid-19</i> by Sercan Ö. Arık</td>
-  </tr>
-  <tr>
-    <td>13:30&ndash;14:00</td>
-    <td>Talk: <i>Underspecification, Inductive Bias, and Hybrid Modeling</i> by Andrew Miller</td>
-  </tr>
-  <tr>
-    <td>14:00&ndash;15:00</td>
-    <td>Contributed oral presentations</td>
-  </tr>
-  <tr>
-    <td>15:00&ndash;15:30</td>
-    <td>Break</td>
-  </tr>
-  <tr>
-    <td>15:30&ndash;16:00</td>
-    <td>Contributed oral presentations</td>
-  </tr>
-  <tr>
-    <td>16:00&ndash;17:00</td>
-    <td>Poster session (2)</td>
-  </tr>
-</tbody>
-</table>
 
 ---
 

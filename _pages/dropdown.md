@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: Call for Scientific Models
       permalink: /cfsm/
+    - title: divider
+    - title: Camera-Ready Instruction
+      permalink: /camera_ready/
 ---

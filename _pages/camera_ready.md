@@ -3,7 +3,7 @@ layout: page
 permalink: /camera_ready/
 title: Camera-Ready Instruction
 description:
-nav: true
+nav: false
 nav_order: 1
 ---
 
