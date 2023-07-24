@@ -94,9 +94,11 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
 
 ---
 
+{% comment %}
 ## Key dates
 
 {% include key_dates_list.md %}
+{% endcomment %}
 
 {% comment %}
 <div style="padding: 8px; margin: 0 auto; margin-bottom: 20px; border: 1px dotted #333333; background-color: #f0f8ff; width: 60%;">
