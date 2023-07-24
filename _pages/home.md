@@ -92,9 +92,9 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
 </tbody>
 </table>
 
+{% comment %}
 ---
 
-{% comment %}
 ## Key dates
 
 {% include key_dates_list.md %}
