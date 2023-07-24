@@ -33,8 +33,6 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 ## Schedule
 
-Session assignment will soon be announced.
-
 <table class="schedule">
 <tbody>
   <tr class="tobedone">
