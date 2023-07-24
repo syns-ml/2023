@@ -33,6 +33,8 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 ## Schedule
 
+Please check [Accepted Contributions](contributions/) for poster session assignment.
+
 <table class="schedule">
 <tbody>
   <tr class="tobedone">
