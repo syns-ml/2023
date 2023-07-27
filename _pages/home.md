@@ -91,7 +91,7 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
   </tr>
   <tr class="tobedone">
     <td>17:00</td>
-    <td>Closing remarks</td>
+    <td>Concluding remarks</td>
   </tr>
 </tbody>
 </table>
