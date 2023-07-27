@@ -89,6 +89,10 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
     <td>16:00&ndash;17:00</td>
     <td>Poster session <abbr class="badge" style="background-color:{{ site.data.venues.PM.color }};">PM</abbr> (<a href="poster/">Poster Instruction</a>; <a href="contributions/">Session Assignment</a>)</td>
   </tr>
+  <tr class="tobedone">
+    <td>17:00</td>
+    <td>Concluding remarks</td>
+  </tr>
 </tbody>
 </table>
 
