@@ -83,7 +83,7 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
   </tr>
   <tr class="tobedone">
     <td>15:30&ndash;16:00</td>
-    <td>Contributed oral presentations</td>
+    <td>Best paper award presentations</td>
   </tr>
   <tr class="tobedone">
     <td>16:00&ndash;17:00</td>
@@ -91,7 +91,7 @@ Please check [Accepted Contributions](contributions/) for poster session assignm
   </tr>
   <tr class="tobedone">
     <td>17:00</td>
-    <td>Concluding remarks</td>
+    <td>Closing remarks</td>
   </tr>
 </tbody>
 </table>
