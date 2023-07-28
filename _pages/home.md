@@ -33,7 +33,7 @@ This workshop will be an **in-person event** (with some virtual components such 
 
 ## Schedule
 
-Please check [Accepted Contributions](contributions/) for poster session assignment.
+Please check [Accepted Contributions](contributions/) for poster session assignment. <strong>The assignment was updated on Thursday</strong> because the initial assignment did not consider the time slot preference we asked. Sorry for confusion.
 
 <table class="schedule">
 <tbody>

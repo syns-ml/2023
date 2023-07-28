@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-Each contribution is assigned to Poster Session <abbr class="badge" style="background-color:{{ site.data.venues.AM.color }};">AM</abbr> or Poster Session <abbr class="badge" style="background-color:{{ site.data.venues.PM.color }};">PM</abbr> (see [Schedule](/2023/#schedule) for the detailed time); please let us know (at [synsandml@gmail.com](mailto:synsandml@gmail.com)) if you would like to switch the assignment.
+Each in-person presentation is assigned to Poster Session in <abbr class="badge" style="background-color:{{ site.data.venues.AM.color }};">AM</abbr> or <abbr class="badge" style="background-color:{{ site.data.venues.PM.color }};">PM</abbr>; please [let us know](mailto:synsandml@gmail.com) if you would like to switch the assignment.
+
+<strong>Updated on Thursday</strong> because the initial assignment did not consider the time slot preference we asked. Sorry for confusion.
 
 ### Accepted Scientific Models
 
