@@ -30,6 +30,9 @@
         <div id="{{entry.key}}" class="col-sm-11">
         <!-- Title -->
         <div class="title">
+          {%- if entry.subno -%}
+            ({{ entry.subno }})&nbsp;
+          {%- endif -%}
           {%- if entry.url -%}
             <a href="{{ entry.url }}" target="_blank">{{entry.title}}</a>
           {%- else -%}
