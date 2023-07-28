@@ -147,7 +147,10 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a class="abs btn btn-sm z-depth-0" role="button">Abstract</a>
+          {%- endif %}
+          {%- if entry.video %}
+            <a class="video btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
